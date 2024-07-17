@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "vite build & vite serve"
+  },
+  "dependencies": {
+    "npm": "^10.8.2",
+    "vite": "^5.3.3"
+  }
+}
